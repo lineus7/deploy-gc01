@@ -2,10 +2,6 @@
 
 This repository contains a duplicated version of the LinkedIn mobile application, adapted for educational purposes. The duplication has been implemented using React Native, MongoDB, Redis, GraphQL, Tailwind CSS, and Expo.
 
-## Purpose
-
-The purpose of this project is to provide a hands-on learning experience for individuals interested in understanding and implementing various features found in popular mobile applications. By duplicating the LinkedIn mobile app, users can explore different aspects of app development, including frontend design, backend functionality, data storage, and more.
-
 ## Features
 
 - **Authentication**: Users can sign up, log in, and securely authenticate themselves within the app.
