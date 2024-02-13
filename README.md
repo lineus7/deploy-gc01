@@ -17,7 +17,7 @@ The purpose of this project is to provide a hands-on learning experience for ind
 
 The app is currently deployed and accessible via Expo. You can view the app on your Android or iOS device by scanning the QR codes below:
 
-- **Android**: [exp://u.expo.dev/update/a27f95e4-5441-4f6b-ae50-ad530bd54d54](exp://u.expo.dev/update/a27f95e4-5441-4f6
+- **Android**: [exp://u.expo.dev/update/a27f95e4-5441-4f6b-ae50-ad530bd54d54](exp://u.expo.dev/update/a27f95e4-5441-4f6)
 - **iOS**: [exp://u.expo.dev/update/2190fbf7-94b8-4895-9f96-62effd89594a](exp://u.expo.dev/update/2190fbf7-94b8-4895-9f96-62effd89594a)
 
 ---
