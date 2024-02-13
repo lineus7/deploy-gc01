@@ -1,29 +1,25 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13590790&assignment_repo_type=AssignmentRepo)
+# Educational Mobile App Duplication
 
-Server URL : https://gc01p3.lineus.tech/
+This repository contains a duplicated version of the LinkedIn mobile application, adapted for educational purposes. The duplication has been implemented using React Native, MongoDB, Redis, GraphQL, Tailwind CSS, and Expo.
 
-![QRCODE](./android-qrcode.png)
+## Purpose
 
-# GC01
+The purpose of this project is to provide a hands-on learning experience for individuals interested in understanding and implementing various features found in popular mobile applications. By duplicating the LinkedIn mobile app, users can explore different aspects of app development, including frontend design, backend functionality, data storage, and more.
 
-## My Social Media App
+## Features
 
-My Social Media App adalah sebuah aplikasi client(mobile)-server. Challenge ini juga merupakan salah satu aplikasi mobile pertama dan terakhir kamu, jadi kerjakan dengan baik sebagai bekal portofolio kamu. Pada challenge ini, kamu diminta untuk membuat aplikasi client(mobile)-server dengan detail sebagai berikut:
+- **Authentication**: Users can sign up, log in, and securely authenticate themselves within the app.
+- **Profiles**: Users can read their personal information, and list of follower and following
+- **Messaging**: Users can communicate with their connections through a post, like, and comment system integrated into the app.
+- **Search**: Users can search for other users within the app.
 
-### Struktur Folder
+## Deployment
 
-- [v] server: untuk menyimpan aplikasi server GraphQL kamu
-- [v] app: untuk menyimpan aplikasi mobile React Native kamu
+The app is currently deployed and accessible via Expo. You can view the app on your Android or iOS device by scanning the QR codes below:
 
-### Fitur
+- **Android**: [exp://u.expo.dev/update/a27f95e4-5441-4f6b-ae50-ad530bd54d54](exp://u.expo.dev/update/a27f95e4-5441-4f6
+- **iOS**: [exp://u.expo.dev/update/2190fbf7-94b8-4895-9f96-62effd89594a](exp://u.expo.dev/update/2190fbf7-94b8-4895-9f96-62effd89594a)
 
-- [v] Fitur Register
-- [v] Fitur Login
-- [v] FItur Add Post
-- [v] Fitur Show Post (berdasarkan yang paling baru)
-- [v] Fitur Comment Post (Embedded Document)
-- [v] Fitur search user berdasarkan nama atau username
-- [v] Fitur follow
-- [v] Menampilkan Followers dan Following dari setiap user (Reference with $lookup)
-- [v] Fitur Like Post
-- [v] Menampilkan total like dari setiap post
+---
+
+**Note:** This project is a duplication of the LinkedIn mobile app for educational purposes only. It is not intended for commercial use or distribution. All trademarks and copyrights belong to their respective owners.
