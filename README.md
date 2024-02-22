@@ -9,6 +9,56 @@ This repository contains a duplicated version of the LinkedIn mobile application
 - **Messaging**: Users can communicate with their connections through a post, like, and comment system integrated into the app.
 - **Search**: Users can search for other users within the app.
 
+## Installation
+
+1. **Git Clone**: Clone this repository to your local machine:
+
+    ```bash
+    git clone https://github.com/yourusername/your-repo.git
+    ```
+
+2. **Navigate to Server Directory**: Move into the server directory:
+
+    ```bash
+    cd server
+    ```
+
+3. **Install Server Dependencies**: Install the necessary dependencies for the server:
+
+    ```bash
+    npm install
+    ```
+
+4. **Add Server .env**: Create a `.env` file in the server directory and add your environment variables.
+
+5. **Start Server**: Run the development server:
+
+    ```bash
+    npm run dev
+    ```
+
+6. **Navigate to Client Directory**: Move into the client directory:
+
+    ```bash
+    cd ../client
+    ```
+
+7. **Install Client Dependencies**: Install the necessary dependencies for the client:
+
+    ```bash
+    npm install
+    ```
+
+8. **Start Expo**: Start the Expo server:
+
+    ```bash
+    npm start
+    ```
+
+Now you should be all set to explore the application!
+
+**Note:** Ensure that you have all the necessary prerequisites installed before following these steps.
+
 ## Deployment
 
 The app is currently deployed and accessible via Expo. You can view the app on your Android or iOS device by scanning the QR codes below:
