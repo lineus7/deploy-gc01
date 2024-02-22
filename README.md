@@ -13,10 +13,6 @@ This repository contains a duplicated version of the LinkedIn mobile application
 
 1. **Git Clone**: Clone this repository to your local machine:
 
-    ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    ```
-
 2. **Navigate to Server Directory**: Move into the server directory:
 
     ```bash
